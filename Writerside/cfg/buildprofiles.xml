@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
-    <variables/>
     <build-profile instance="hi">
         <variables>
             <noindex-content>true</noindex-content>
+            <custom-favicons>gllogo.svg</custom-favicons>
+            <header-logo>gllogo.svg</header-logo>
         </variables>
     </build-profile>
 
