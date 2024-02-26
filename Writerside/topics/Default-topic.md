@@ -1,11 +1,11 @@
-# This is the first topic
+# 欢迎来到工路快聘学习中心
 
 <!--Writerside adds this topic when you create a new documentation project.
 You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.
 If you want to re-add it for your experiments, click + to create a new topic, choose Topic from Template, and select the 
 "Starter" template.-->
 
-## Add new topics
+## 直播待岗赋能中心
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
 ![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321"}
