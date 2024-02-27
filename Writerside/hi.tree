@@ -4,13 +4,13 @@
 
 <instance-profile id="hi"
                  name="工路快聘"
-                 start-page="Default-topic.md">
+                 start-page="欢迎来到工路快聘学习中心.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="欢迎来到工路快聘学习中心.md"/>
     <toc-element topic="工路快聘直播课.md">
         <toc-element topic="第一课、抖音直播注意事项.md"/>
         <toc-element topic="第二课、抖音如何推流.md"/>
         <toc-element topic="第三课、如何在抖音开启你的第一场直播.md"/>
-        <toc-element topic="4-第四课、抖音新账号起号.md"/>
+        <toc-element topic="第四课、抖音新账号起号.md"/>
     </toc-element>
 </instance-profile>

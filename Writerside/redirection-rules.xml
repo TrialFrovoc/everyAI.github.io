@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="2dc2a7c">
-        <description>Created after removal of "FAQ常见问题" from 工路快聘</description>
-        <accepts>FAQ常见问题.html</accepts>
-    </rule>
 </rules>
